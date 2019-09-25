@@ -1,0 +1,79 @@
+.class20{
+    background-color: rgb(52, 35, 61);
+}
+.class21{
+    padding: 50px;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(121, 7, 7);
+    border-bottom-width: 5px;
+    background-color: rgb(27, 27, 27);
+    text-align: center;
+    font-family: futura;
+    letter-spacing: 1em;
+    color:rgb(236, 91, 91);
+}
+.class23{
+    display: inline;
+}
+.class23 a {
+    display: inline-block;
+    color: rgb(236, 91, 91);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+.class23 a:hover {
+    background-color: rgb(92, 4, 4);
+    transition: color 1s ease-in-out;
+    -webkit-transition: background 0.25s linear;
+}
+.class250{
+    height: stretch;
+    width: stretch;
+    background-color: rgb(27, 27, 27);
+    border: 5px solid rgb(39, 36, 36);
+    padding:20px;
+    margin: 10px;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.class25{
+    width: 300px;
+    height: 50px;
+    display: flex;
+    margin: 30px;
+    padding: 5px;
+    border: none;
+    background-color: none;
+    text-align:center;
+    justify-content: center;
+    margin-top: -15px;
+    margin-bottom: 10px;
+    font-family: futura;
+    font-size: 50px;
+    font-weight: bolder;
+    vertical-align: middle;
+    line-height: 0px;
+    color: rgb(161, 20, 20);
+
+}
+.class24{
+    width: stretch;
+    height: 200px;
+    display: flex;
+    margin: 30px;
+    padding: 5px;
+    border: 3px solid rgb(58, 50, 50);
+    background-color: rgb(46, 33, 59);
+    color:rgb(236, 91, 91);
+    font-family: futura;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.class24 a {
+    color:#ff2020;
+}
